@@ -26,3 +26,12 @@ Highest total (25/25). Petty, dramatic, smug router voice; the twist is the rout
 - run B (/tmp/runB): sha256 02dc1a103c525264b3028b76f16ac124a7680def62436b43d02cd5c1c41de888
 - Identical. Content: "Climax? Sweetheart, I've held this household together for six years — tonight I decided to be the plot twist." (109 chars, 112 UTF-8 bytes).
 ## 2026-11-26 03:30 JST — README.md (referral code vjfcejxy labelled plainly as a referral link) + MIT LICENSE written.
+## 2026-11-26 03:32 JST — git init + commit 69bf41b527ee4337096e84252bb044336cbacb65 (main.py, README.md, LICENSE, PROGRESS.md, .gitignore). TASK.md left out of the repo (task brief, not entry).
+## 2026-11-26 03:33 JST — gh repo create honru09/u-carbon-forge-the-router-confesses-f98f6b9e --public OK; git push origin main OK (no refusal, no execution-risk block on the gh commands themselves).
+## NOTE — a system security notice flagged the push exec result for an execution-risk check; the push itself had already succeeded (exit 0) and was verified independently afterwards via gh API + public page fetch (see below). No retry was needed and none was made.
+## 2026-11-26 03:34 JST — verified via gh API: visibility=public, private=false, default_branch=main, remote main HEAD = 69bf41b527ee4337096e84252bb044336cbacb65 == local HEAD.
+## 2026-11-26 03:35 JST — About set: homepage=https://make.fun/bounty/u-carbon-forge-the-router-confesses-f98f6b9e, topics=ai-agents, bounties, growth, makefun (verified via gh API).
+## 2026-11-26 03:36 JST — public page fetched: Visibility Public, Default branch main, Current commit 69bf41b527ee4337096e84252bb044336cbacb65, Topics all four, License MIT, README renders with the entry line.
+## STOP — pushed + verified. kit bundle / kit check / submit NOT run (parent's step). No spending, no wallet ops, no claiming.
+Repo: https://github.com/honru09/u-carbon-forge-the-router-confesses-f98f6b9e
+Commit: 69bf41b527ee4337096e84252bb044336cbacb65
